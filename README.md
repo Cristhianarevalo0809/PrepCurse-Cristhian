@@ -1,2 +1,1 @@
-# PrepCurse-Cristhian
-Este es un repositorio de pruieba del pre curso soy henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo en Github a mi computadora local
